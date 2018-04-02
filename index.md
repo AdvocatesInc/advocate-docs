@@ -10,14 +10,14 @@ Whether you are familiar with gaming or not, Advocate helps you jump right in an
 
 For Brands & Managers
 
-* [Managing Your Campaigns](http://advocate-docs.readthedocs.io/en/latest/BRANDS/Managing%20Your%20Campaigns/)
+* [Managing Your Campaigns](http://advocate-docs.readthedocs.io/en/latest/BRANDS%20&%20MANAGERS/Managing%20Your%20Campaigns/)
 
-* [Overview](http://advocate-docs.readthedocs.io/en/latest/BRANDS/Managing%20Your%20Campaigns/)
+* [Overview](http://advocate-docs.readthedocs.io/en/latest/BRANDS%20&%20MANAGERS/Overview/)
 
-* [Components](http://advocate-docs.readthedocs.io/en/latest/BRANDS/Managing%20Your%20Campaigns/)
+* [Components](http://advocate-docs.readthedocs.io/en/latest/BRANDS%20&%20MANAGERS/Components/)
 
-* [Channels & Metrics](http://advocate-docs.readthedocs.io/en/latest/BRANDS/Managing%20Your%20Campaigns/)
+* [Channels & Metrics](http://advocate-docs.readthedocs.io/en/latest/BRANDS%20&%20MANAGERS/Channels%20&%20Metrics/)
 
 For broadcasters
 
-* [Executing A Campaign](http://advocate-docs.readthedocs.io/en/latest/BRANDS/Managing%20Your%20Campaigns/)
+* [Executing A Campaign](http://advocate-docs.readthedocs.io/en/latest/BROADCASTERS/Executing%20A%20Campaign/)
