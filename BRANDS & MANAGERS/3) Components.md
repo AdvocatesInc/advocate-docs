@@ -1,7 +1,7 @@
 # The Components Tab
 Advocate 0.1 supports 5 campaign components:
 
-[**Live Graphics**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#live-graphics) are live rotating ads placed in each broadcaster’s stream. [**Target links**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#target-links) are superimposed on the graphic if one is provided.
+<a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#live-graphics">**Live Graphics**</a> are live rotating ads placed in each broadcaster’s stream. <a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#target-links">**Target links**</a> are superimposed on the graphic if one is provided.
 
 #### How to Add a Live Graphic
 
@@ -11,7 +11,7 @@ Advocate 0.1 supports 5 campaign components:
 4. Choose an image that you want shown on the stream
 5. Click the "Submit" button
 
-[**Banner Graphics**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#banner-graphics) are static display ads. They are used as *Twitch* panel banners below a broadcaster's stream that link to a [**target link**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#target-links).
+<a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#banner-graphics">**Banner Graphics**</a> are static display ads. They are used as *Twitch* panel banners below a broadcaster's stream that link to a <a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#target-links">**target link**</a>
 
 #### How to Add a Banner Graphic
 
@@ -21,7 +21,7 @@ Advocate 0.1 supports 5 campaign components:
 4. Choose an image that you want shown on the stream
 5. Click the "Submit" button
 
-The Advocate [**Chat Bot**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#chat-bot) posts messages in each broadcaster's *Twitch* chat while they're live. Messages are posted under the account name *advogg*.
+The Advocate <a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#chat-bot">**Chat Bot**</a> posts messages in each broadcaster's *Twitch* chat while they're live. Messages are posted under the account name *advogg*.
 
 #### How to add a message with the Advocate Chat bot
 
@@ -32,7 +32,7 @@ The Advocate [**Chat Bot**](http://advocate-docs.readthedocs.io/en/latest/Defini
 ⋅⋅⋅You can add the target link into the message at any time by using the "Add Link" button.
 5. Click the "Submit" button
 
-[**Suggested Tweets**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#suggested-tweets) are sent to each broadcaster in a campaign in the form of a pre-made message including a [**target link**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#target-links) and optional image. Each broadcaster in the campaign is instructed to send out the *Tweet* on their respective *Twitter* Account.
+<a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#suggested-tweets">**Suggested Tweets**</a> are sent to each broadcaster in a campaign in the form of a pre-made message including a <a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#target-links">**target link**</a> and optional image. Each broadcaster in the campaign is instructed to send out the *Tweet* on their respective *Twitter* Account.
 
 #### How to Suggest a Tweet
 
@@ -40,7 +40,7 @@ The Advocate [**Chat Bot**](http://advocate-docs.readthedocs.io/en/latest/Defini
 2. To Be Completed
 3. To Be Completed
 
-[**Suggested Retweets**](http://advocate-docs.readthedocs.io/en/latest/Definitions/#suggested-retweets) are sent to each broadcaster in a campaign in the form of a *Tweet* link. Each broadcaster in the campaign is instructed to *retweet* the *Tweet* on their respective *Twitter* Account.
+<a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#suggested-retweets">**Suggested Retweets**</a> are sent to each broadcaster in a campaign in the form of a *Tweet* link. Each broadcaster in the campaign is instructed to *retweet* the *Tweet* on their respective *Twitter* Account.
 
 #### How to Suggest a Retweet
 
