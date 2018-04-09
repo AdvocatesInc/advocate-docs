@@ -23,7 +23,11 @@
 
 #### Suggested Tweets
 
+- To Be Completed
+
 #### Suggested Retweets
+
+- To Be Completed
 
 #### Target Links
 - Target Links
@@ -34,4 +38,4 @@
 #### Viewable Minutes
 - Viewable Minutes
    Viewable Minutes are how long users where looking at the ad, as it was visible on screen.  
-      ex, if the ad shows for 10 seconds every minute, after an hour long stream, it would have 10 viewable minutes
+      ex, if the ad shows for 10 seconds every minute, after an hour long stream, it would have 10 viewable minutes, multiplied by how many users were viewing it.

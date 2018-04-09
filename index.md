@@ -20,4 +20,8 @@ For Brands & Managers
 
 For broadcasters
 
+* [Profile](http://advocate-docs.readthedocs.io/en/latest/BROADCASTERS/Executing%20A%20Campaign/)
+
+* [Dashboard](http://advocate-docs.readthedocs.io/en/latest/BROADCASTERS/Executing%20A%20Campaign/)
+
 * [Executing A Campaign](http://advocate-docs.readthedocs.io/en/latest/BROADCASTERS/Executing%20A%20Campaign/)
