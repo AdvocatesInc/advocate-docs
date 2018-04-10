@@ -15,3 +15,10 @@ The **Live Queue** denotes recent actions pertaining to the campaign. Currently 
 **Average Viewers**: The average viewers across all channels within the campaign.
 
 **Peak Viewers**: The total peak viewers across all channels currently live at a single time during the campaign.
+
+## Adding Target Links
+
+1. Go to the Target Links window.
+2. Click on the plus on the top right.
+3. Add a link you want viewers to go to, such as your website, or a product specific site.
+4. Click the "Add" button on the bottom.
