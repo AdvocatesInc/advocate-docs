@@ -3,6 +3,9 @@ The Overview Tab
 
 The overview tab presents general information about your campaign.
 
+Tyler Price
+
+
 Your **Campaign Progress** is shown as a rounded percentage based on the elapsed campaign days compared to the total campaign length.
 
 The **Live Queue** denotes recent actions pertaining to the campaign. Currently supported events are live broadcasts and tweets. Live **Twitch** channels are shown as a video embed at the bottom of this tab.
