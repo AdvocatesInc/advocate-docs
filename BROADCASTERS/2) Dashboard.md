@@ -20,7 +20,7 @@ This stat records how much you have received from brands.
 
 ## Actions
 
-To Be Completed
+Your Action Queue outlines the things you need to do before streaming for your next campaign. Each item will have specific instructions on what to do to complete it. Along with that, at the bottom right corner of each item you can click the checkbox indicating that you have completed that item. 
 
 ## Active Chat Bot Messages
 
