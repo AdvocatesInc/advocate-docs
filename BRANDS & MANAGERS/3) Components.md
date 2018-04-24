@@ -52,10 +52,10 @@ The Advocate <a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definit
 
 Component versions allow you to make changes to and update your *Banner Graphics* and *Live Graphics* without deleting the previous version. In addition, this allows you to then *reactivate* a previous version of a component if need be.
 
-After changing or updating a component, click the component image to see a horizontal list of previous versions. Clicking the *reactivate* button next to a chosen version will revert the component to that version.
+To reactivate a component, click the component image to see a horizontal list of previous versions. Clicking the *reactivate* button next to a chosen version will revert the component to that version.
 
 ## Deleting a component
 
-Deleting a component allows you to remove a component from your campaign all together.
+Deleting a component allows you to remove a component from your campaign.
 
-To delete a component, click the small red *X* in the top right corner of the component. You will then be prompted with a message to delete the component.
+To delete a component, click the small red *X* in the top right corner of the component. You will then be prompted with a message to delete that component.
