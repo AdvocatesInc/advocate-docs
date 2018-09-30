@@ -1,5 +1,5 @@
 # The Components Tab
-Advocate 0.1 supports 5 campaign components:
+Advocate 0.3 supports 5 campaign components:
 
 <a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#live-graphics">**Live Graphics**</a> are live rotating ads placed in each broadcaster’s stream. <a href="http://advocate-docs.readthedocs.io/en/latest/2)%20Definitions/#target-links">**Target links**</a> are superimposed on the graphic if one is provided.
 

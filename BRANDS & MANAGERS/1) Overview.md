@@ -3,23 +3,33 @@ The Overview Tab
 
 The overview tab presents general information about your campaign.
 
-
-Your **Campaign Progress** is shown as a rounded percentage based on the elapsed campaign days compared to the total campaign length.
-
-The **Live Queue** denotes recent actions pertaining to the campaign. Currently supported events are live broadcasts and tweets. Live **Twitch** channels are shown as a video embed at the bottom of this tab.
-
 ## Metrics On This Tab
-**Total Broadcast Hours / Viewable Minutes**: The total broadcast time of all channels within the campaign since the campaign's inception.
+**Total Viewable Minutes**: The total broadcast time of all channels within the campaign since the campaign's inception.
 
-**Target Link Visits**: The total sum of all clicks to a **Target Link** from one of the campaign's components.
+**Campaign Participants**: The total number of active broadcasters in your campaign.
 
-**Average Viewers**: The average viewers across all channels within the campaign.
+**Peak Concurrent Viewers**: The total peak viewers across all channels currently live at a single time during the campaign.
 
-**Peak Viewers**: The total peak viewers across all channels currently live at a single time during the campaign.
+**Average Concurrent Viewers**: The average concurrent viewers across all channels within the campaign.
+
+**Total Clicks**: The total sum of all clicks to a **Target Link** from any of the campaign's components.
+
+**Average CVM**: Average clicks per million viewed minutes recorded for this campaign.
+
+## The Live Queue
+The **Live Queue** denotes recent actions related to the campaign. Currently supported events are live broadcasts and tweets.
 
 ## Adding Target Links
+Target Links are URL destinations intended for viewers of your broadcasters. This may be a home page, product page, or Call-To-Action. To add a target link:
+1. Navigate to the Overview Tab of your desired campaign.
+2. Select the "+" button at the top right of the target links widgets.
+3. Add a full URL link and click the "Add" button.
 
-1. Go to the Target Links window.
-2. Click on the plus on the top right.
-3. Add a link you want viewers to go to, such as your website, or a product specific site.
-4. Click the "Add" button on the bottom.
+## Adding Component Labels
+Component Labels are tags assigned to components and campaigns for conditional display. A broadcaster will only see components with no labels at all or ones with a matching label.
+1. Navigate to the Overview Tab of your desired campaign.
+2. Select the "+" button at the top right of the component labels widgets.
+3. Add your unique label tag and click the "Add Label" button.
+4. Navigate to the Components Tab of your desired campaign. [Create a component](http://advocate-docs.readthedocs.io/en/latest/BRANDS%20&%20MANAGERS/2%20Managing%20Your%20Campaigns/) and select your label of choice on the component form. If your component is already created, you may edit labels using the *eye* icon at the top right of your component.
+5. Navigate to the Channels tab and open the label modal for a specific channel using the "+" button.
+6. Enter your unique label tag and click the "Add Label" button.
