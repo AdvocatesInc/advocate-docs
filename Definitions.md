@@ -27,14 +27,6 @@
 
    ex, Billboards that have rotating slats to show multiple ad on the same ad space.
 
-#### Suggested Tweets
-
-- To Be Completed
-
-#### Suggested Retweets
-
-- To Be Completed
-
 #### Target Links
 - Target Links
 

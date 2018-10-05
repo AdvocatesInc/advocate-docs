@@ -4,24 +4,18 @@ This tab shows monthly stats of your channel, as well as any actions that need t
 
 ### Monthly Stats
 
-These stats cover what you've done in the last month towards campaign progression. It records
+These stats cover what you've done in the last month towards campaign progression.
 
-#### Time Watched
+**Minutes Watched**: This stat records the viewable minutes your stream has accrued. Time watched is the total time streamed this month multiplied by your average viewer count.
 
-This stat records the viewable minutes your stream has accrued. Time watched is the total time streamed this month multiplied by your average viewer count.
+**Clicks**: This stat records how many times your components have been clicked by viewers. This can help you see how well you're doing in your campaigns.
 
-#### Attribution
+**Pay To Date**: This is the estimated running total for payment in the current month.
 
-This stat records how many times your stream's ads have been clicked by viewers. This can help you see how well the ads are doing when coupled with the time watched.
+## Your Action Queue
 
-#### Pay to Broadcaster
+Actions are required to be completed prior to being active in a campaign. To use the Action Queue, simply scroll through each action item in the queue and mark them as completed by clicking the checkbox in the bottom right corner. Once you mark an action as completed, it cannot be reversed. Do not mark an action completed if you have not yet followed the instructions for that item.
 
-This stat records how much you have received from brands.
+## your Chat Bot Messages
 
-## Actions
-
-Actions are the specific activities needing completion prior to streaming. You can find your actions on your dashboard, they will show up in your *Action Queue*.
-
-## Active Chat Bot Messages
-
-With this info, you can view what chat bots are still active in their stream, what messages they are showing in the chat, and the frequency at which they are showing in your chat.
+This allows you to view which Chat Bot messages will be posted in your stream when you go live, at a 20 minute-interval. The Chat Bot will only post if there have been at least 20 non-bot messages since the last post.
