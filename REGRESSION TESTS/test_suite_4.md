@@ -19,15 +19,18 @@ LIVE GRAPHIC & BROWSER SOURCE TEST SUITE #4
 **Steps to perform:**
 
 **From a Campaign Manager Account**
+
 1. Invite a broadcaster to a campaign that has at least 2 live graphics
 2. Invite a broadcaster to second campaign that has live graphic intervals enabled
 > The broadcaster receives an invitation email, and the "Sent Invites" modal shows the invitation
 
 **From a Broadcaster Account**
+
 3. Under the broadcaster dashboard, decline the first campaign invitation and accept the second invitation
 > Broadcaster actions related to that campaign are created and shown in the action queue
 
 **From a Campaign Manager Account**
+
 4. Activate the broadcaster on the first campaign
 > Live graphics now appear on the broadcaster's browser source alternating with the default duration time, and he is moved from the Inactive column to the Active column
 
@@ -45,9 +48,11 @@ LIVE GRAPHIC & BROWSER SOURCE TEST SUITE #4
 > The live graphic is removed instantly from the browser source queue, without the need to refresh
 
 **From a Broadcaster Account**
+
 10. Under the broadcaster dashboard, accept the second campaign invitation
 
 **From a Campaign Manager Account**
+
 11. Activate the broadcaster on the second campaign
 > Live graphics from both campaigns now appear on the broadcaster's browser source
 
