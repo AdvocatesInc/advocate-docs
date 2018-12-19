@@ -38,8 +38,7 @@ If you prefer inviting broadcasters directly to the campaign under the *Active B
 
 The Advocate *Twitch Chat Bot* will post through the Twitch account *advogg* by default. To allow the chat bot to post through a specific Twitch Account, follow these steps:
 
-1. Make sure you are either signed in to [Twitch](https://www.twitch.tv) with the account you wish to use, or not signed in with any other account. If you've already set up the chatbot for another campaign, skip to step #5.
+1. Make sure you are either signed in to [Twitch](https://www.twitch.tv) with the account you wish to use, or not signed in with any other account.
 2. Navigate to the Management Tab of your desired campaign.
 3. Click on the "Twitch Chat Bot Account" button to open the *Chatbot Account* modal.
 4. Click on the "Authorize New Twitch Account" button to log in with the account you wish to use, and accept all permissions.
-5. Notify an Advocate admin through one of our support channels, or through email at admin@adv.gg, and we'll activate your Twitch account for that specific campaign.
