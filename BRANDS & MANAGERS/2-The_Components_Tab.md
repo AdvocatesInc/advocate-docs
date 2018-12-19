@@ -1,4 +1,4 @@
-The Components Tab
+2. The Components Tab
 ================
 
 The Components Tab contains sections for all supported component types. To add new components, click on the Add New button and fill out the component form. You may also edit components or specify their labels.

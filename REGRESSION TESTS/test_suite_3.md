@@ -1,4 +1,4 @@
-LIVE GRAPHIC & BROWSER SOURCE TEST SUITE #4
+BROADCASTER DASHBOARD TEST SUITE #3
 ====================
 
 [Related user documentation]()

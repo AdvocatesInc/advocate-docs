@@ -1,4 +1,5 @@
-# The Metrics Tab
+4. The Metrics Tab
+================
 
 The Metrics Tab contains aggregate totals for all metrics within the campaign, as well as three charts displaying clicks over time. Global filters are available for date ranges, component types, and channels. Generate reports by clicking Create Report and entering your desired date range.
 
