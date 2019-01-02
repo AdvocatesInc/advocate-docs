@@ -142,6 +142,9 @@ ssh YOUR_GCP_USERNAME@EXTERNAL_IP
         # max upload size
         client_max_body_size 75M;
 
+        # redirect links in the form "https://TEAMNAME.adv.gg/a/LINKCODE" to go.adv.gg
+        rewrite ^(/a/)(.*)$  https://go.adv.gg/$2 permanent;
+
         location / {
             proxy_pass http://localhost:8080;
             proxy_http_version 1.1;
