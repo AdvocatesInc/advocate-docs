@@ -91,7 +91,7 @@ ssh YOUR_GCP_USERNAME@EXTERNAL_IP
 
     ```bash
     eval `ssh-agent -s`
-    ssh-add ~/.ssh/advocate_frontend_rsa
+    ssh-add ~/.ssh/adv_frontend_rsa
     git clone -b master git@github.com:AdvocatesInc/advocate-frontend /srv/adv
     ```
 
