@@ -94,6 +94,8 @@ ssh YOUR_GCP_USERNAME@EXTERNAL_IP
     ssh-add ~/.ssh/adv_frontend_rsa
     git clone -b master git@github.com:AdvocatesInc/advocate-frontend /srv/adv
     ```
+    
+    Make sure the theme with [TEAMNAME] exists on the `master` branch of the `advocate-frontend` repo. If it does not, you'll see an error in step 12
 
 10. Install node, npm, yarn, and pm2
 
