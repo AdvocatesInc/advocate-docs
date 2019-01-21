@@ -99,6 +99,7 @@ ssh YOUR_GCP_USERNAME@EXTERNAL_IP
 
     ```bash
     sudo apt-get update
+    sudo apt-get install yarn
     sudo apt-get install nodejs npm
 
     curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
