@@ -25,9 +25,6 @@ This setting decides whether new broadcasters added to your team will be automat
 This setting decides whether new broadcasters on this sponsor campaign are added directly to the campaign as *active* participants, or if they should be added as *inactive* participants until a manager approves them and activates them individually.
 
 ### Setting the Twitch Chat Bot account
-
-`Chatbot Accounts should not be used as a regular broadcaster account on Advocate. If you sign in to a broadcaster dashboard using a designated chatbot account, the chat bot will lose permission to post through that account`
-
 The Advocate *Twitch Chat Bot* will post through the Twitch account *advogg* by default. To allow the chat bot to post through a specific Twitch Account, follow these steps:
 
 1. Make sure you are either signed in to [Twitch](https://www.twitch.tv) with the account you wish to use, or not signed in with any other account.
