@@ -15,7 +15,6 @@ Advocate 1.1 supports 5 campaign components:
 **Total Clicks**: Clicks for a Chat Bot Message across all channels are displayed at the top right of the component. Clicks for Banner Graphics and Live Graphics are viewable by clicking on that component and opening the version preview subsection.
 
 #### How to Add a Live Graphic
-
 1. Click on the "Add New Component" button at the top right of the tab
 2. Select the "Live Graphics" component type
 3. Enter a reference name for the component
@@ -26,7 +25,6 @@ Advocate 1.1 supports 5 campaign components:
 **Note:** Broadcasters may adjust the *browsersource* position on your broadcasting software of choice, though the Advocate *browsersource* automatically aligns graphics to the center left of the screen, relative to the source.
 
 ##### Using the Live Graphic Preview
-
 The Live Graphic Preview button is available a the top right of the components tab. It allows you to preview a broadcaster's *browsersource* with regards to participation in this campaign. This includes all live graphic components and respective labels.
 
 **Note:** The preview will only show component from this campaign. Broadcasters with any other active campaign will not have those components shown.

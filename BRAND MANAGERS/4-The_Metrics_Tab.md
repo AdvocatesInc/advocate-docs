@@ -29,7 +29,7 @@ The Metrics Tab contains aggregate totals for all metrics within the campaign, a
 The click breakdown sub-tab contains additional attribution details for your campaign, including clicks by country, clicks by target link, and clicks by component. Cumulative clicks over time and clicks by time of day are also displayed as area charts.
 
 ## The Game Breakdown
-The game breakdown sub-tab contains a list of all games streamed by broadcasters during this campaign. Each row indicates the game name, total watched hours _(Viewable Minutes / 60)_, hours broadcast, total clicks assigned to that game, and CVM.
+The game breakdown sub-tab contains a list of all games streamed by broadcasters during this campaign. Each row indicates the game name, total watched hours _(Viewable Minutes / 60)_, hours broadcast, total clicks assigned to that game, and CVM. Each game is clickable to open an expandable section with top 5 countries by clicks, and top 5 broadcasters by viewable minute contribution.
 
 ### How to Generate a report
 
