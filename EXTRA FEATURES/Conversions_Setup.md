@@ -81,3 +81,10 @@ fetch(CONVERSION_EVENT_ENDPOINT, {
     .then(post_success)
     .catch(error => console.error(`Fetch Error =\n`, error));
 ```
+
+# Debugging and Common Errors
+- **The link source must exist in the Advocate system**. If no such link source exists, or if the body of your POST does not contain a `source` field, you'll get a 400 error.
+- Use HTTPS: Your requests should be over HTTPS, not HTTP.
+- The data in the `source` field should be a string, not an int or other data type.
+- Use POST, not GET: If you visit the link via your web browser, or issue a GET request via another method, i.e. `curl` or Postman, you'll get a 405 error
+
